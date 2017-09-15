@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cuex</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="Currencylayer_Key">3741afd246e484205bd81b6bf1ac2922</string>
+    <string name="Free_CC_link">http://free.currencyconverterapi.com/api/v3/convert?q=</string>
+
+    <string name="playstore_developer_name">TRACE Studios</string>
+
+</resources>

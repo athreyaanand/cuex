@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group android:checkableBehavior="single">
+
+    <item
+        android:title="Rate This app"
+        android:id="@+id/rate_thisapp"
+        android:icon="@drawable/inbox"
+        android:checked="false"
+        />
+
+    <item
+        android:title="More Apps"
+        android:id="@+id/more_apps"
+        android:icon="@drawable/sent"
+        android:checked="false"
+        />
+
+    <item
+        android:title="@string/help"
+        android:id="@+id/help_menu"
+        android:icon="@drawable/help"
+        android:checked="false"
+        />
+
+</group>
+</menu>
